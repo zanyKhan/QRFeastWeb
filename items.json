@@ -1,0 +1,374 @@
+[
+    {
+        "data": {
+            "cards": [
+                {
+                    "title": "What's on your mind",
+                    "items": [
+                        {
+                            "id": 101,
+                            "name": "Chicken Biryani",
+                            "price": 250.00,
+                            "rating": 4.4,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761362208/chiken_biryani_fidvgc.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 102,
+                            "name": "Chicken Skewers",
+                            "price": 200.00,
+                            "rating": 4.4,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761362438/chicken_skewers_x20kb4.png",
+                            "availability": true
+                        },
+                        {
+                            "id": 103,
+                            "name": "Pepperoni Pizza",
+                            "price": 299.00,
+                            "rating": 4.4,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364828/pepperoni_pizza_ywhgdm.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 104,
+                            "name": "Shrimp Noodles",
+                            "price": 180.00,
+                            "rating": 4.4,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364836/shrimp_noodles_i5hfs1.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 105,
+                            "name": "Beef Stew",
+                            "price": 220.00,
+                            "rating": 4.4,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364786/beef_stew_kqtq5d.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 106,
+                            "name": "Burger Meal",
+                            "price": 250.00,
+                            "rating": 4.4,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761363880/burger_meal_gxd4yf.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 107,
+                            "name": "Margherita Pizza",
+                            "price": 280.00,
+                            "rating": 4.4,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364833/margherita_pizza_xvenbz.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 108,
+                            "name": "Beef Stew Bowl",
+                            "price": 320.00,
+                            "rating": 4.4,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761363431/beef_stew_bowl_ws4cl4.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 109,
+                            "name": "Ham & Cheese Sandwich",
+                            "price": 180.00,
+                            "rating": 4.4,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364789/ham_cheese_sandwich_n296dj.jpg",
+                            "availability": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Top Picks",
+                    "items": [
+                        {
+                            "id": 201,
+                            "name": "Beyti Kebab with Ayran & Pickles",
+                            "description": "Succulent minced meat kebabs served with traditional ayran and assorted pickles.",
+                            "price": 350.00,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761360401/beyti_kebab_ieank4.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 202,
+                            "name": "Cheeseburger with French Fries",
+                            "description": "Classic cheeseburger with fresh tomatoes, lettuce, cheese, served with golden french fries.",
+                            "price": 280.00,
+                            "rating": 4.4,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761363878/cheeseburger_with_french_fries_h57vjn.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 203,
+                            "name": "Ramadan Special Meal",
+                            "description": "Close-up of an appetizing Ramadan meal featuring a variety of traditional dishes.",
+                            "price": 400.00,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761361372/ramadan_special_meal_f9t12q.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 204,
+                            "name": "Pakistani Food Platter",
+                            "description": "Flat-lay arrangement of authentic Pakistani dishes, perfect for sharing.",
+                            "price": 450.00,
+                            "rating": 4.5,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761361596/pakistani_food_platter_dmlzwy.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 205,
+                            "name": "Vegetable Chicken Salad",
+                            "description": "Fresh vegetable and chicken salad with greens, healthy and light.",
+                            "price": 220.00,
+                            "rating": 4.3,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761361180/vegetable_chicken_salad_ufxiqk.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 206,
+                            "name": "Grilled Meat with Rice",
+                            "description": "Gourmet meal with perfectly grilled meat served with steamed rice.",
+                            "price": 500.00,
+                            "rating": 4.8,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761361884/grilled_meat_with_rice_msmywb.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 207,
+                            "name": "Grilled Chicken Skewers",
+                            "description": "Juicy grilled chicken bamboo skewers, seasoned and cooked to perfection.",
+                            "price": 350.00,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761362054/grilled_chicken_skewers_l28hqq.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 208,
+                            "name": "Beef Curry with Rice",
+                            "description": "Healthy lunch with cooked beef curry, served with steamed rice and vegetables.",
+                            "price": 400.00,
+                            "rating": 4.5,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761359723/beef_curry_with_rice_zi1ksk.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 209,
+                            "name": "Meat Stew with Potatoes",
+                            "description": "Hearty meat stew plate with potatoes, pepper, herbs, onion, and pomegranate seeds.",
+                            "price": 450.00,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761361722/meat_stew_with_potatoes_ymu7jw.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 210,
+                            "name": "Penne Pasta with Chicken",
+                            "description": "Penne pasta in tomato sauce with chicken and fresh tomatoes, perfect Italian meal.",
+                            "price": 320.00,
+                            "rating": 4.4,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761361591/penne_pasta_with_chicken_eywllg.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 211,
+                            "name": "Pre-prepared Delicious Meal",
+                            "description": "Ready-to-eat pre-prepared food showcasing a variety of delicious meals.",
+                            "price": 300.00,
+                            "rating": 4.3,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761361360/pre_prepared_delicious_meals_desile.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 212,
+                            "name": "Roasted Lamb with Vegetables",
+                            "description": "Tender roasted lamb served with caramelized onion, vegetables, and greens.",
+                            "price": 550.00,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364818/roasted_lamb_with_vegetables_kaoikd.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 213,
+                            "name": "Chicken Meatballs with Greens",
+                            "description": "Side view of chicken meatballs served with fresh greens and ketchup.",
+                            "price": 280.00,
+                            "rating": 4.4,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761360409/chicken_meatballs_with_greens_mpszwx.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 214,
+                            "name": "Wooden Table Food Arrangement",
+                            "description": "Top-view arrangement with multiple delicious food items on a wooden table.",
+                            "price": 400.00,
+                            "rating": 4.5,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364836/wooden_table_food_arrangement_u0hkrk.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 215,
+                            "name": "Cooked Pasta with Salads",
+                            "description": "Top-view of bowls containing cooked pasta along with salads and fried vegetables.",
+                            "price": 320.00,
+                            "rating": 4.4,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364787/cooked_pasta_with_salads_ohpowe.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 216,
+                            "name": "Full Table Delicious Food",
+                            "description": "Top-view of a table full of a delicious food composition, ideal for sharing.",
+                            "price": 500.00,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761362048/full_table_delicious_food_giiey3.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 217,
+                            "name": "Delicious Food Table",
+                            "description": "A full table loaded with a variety of delicious dishes, perfect for sharing with friends and family.",
+                            "price": 550.00,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761362209/delicious-food-table_tageyz.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 218,
+                            "name": "Fast Food Platter",
+                            "description": "Fattening, indulgent fast food including burgers, fries, and more, perfect for cheat meals.",
+                            "price": 350.00,
+                            "rating": 4.2,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364797/fattening-unhealthy-fast-food_m4ht3l.jpg",
+                            "availability": true
+                        }
+                    ]
+                },
+                {
+                    "title": "All Menu",
+                    "items": [
+                        {
+                            "id": 301,
+                            "name": "Big Juicy Beef Burger",
+                            "description": "A delicious hamburger with juicy beef patty, fresh tomato, cheese, and red onion on a soft bun.",
+                            "price": 299.00,
+                            "rating": 4.5,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364794/juicy_beef_burger_csjtab.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 302,
+                            "name": "Chicken Skewers with Apple & Chili",
+                            "description": "Grilled chicken skewers served with slices of apples and chili, a perfect sweet-spicy combo.",
+                            "price": 350.00,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364831/chicken_skewers_with_apples_chili_hd2hkc.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 303,
+                            "name": "Chicken Skewers with Apple & Chili",
+                            "description": "Tender chicken skewers served with sliced apples and chili, perfect for a light meal.",
+                            "price": 350.00,
+                            "rating": 4.5,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364780/chicken_skewers_with_slices_apples_chili_cjk5um.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 304,
+                            "name": "Chicken Skewers with Sweet Peppers & Dill",
+                            "description": "Juicy grilled chicken skewers with sweet pepper slices and fresh dill, healthy and flavorful.",
+                            "price": 360.00,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761362472/chicken_skewers_with_slices_sweet_peppers_dill_g1zqvb.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 305,
+                            "name": "Flat-lay Chicken Salad with Sesame Seeds",
+                            "description": "Fresh chicken salad topped with sesame seeds, perfect for a light and healthy meal.",
+                            "price": 280.00,
+                            "rating": 4.4,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761362044/flat_lay_salad_with_chicken_sesame_seeds_t0zgks.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 306,
+                            "name": "Noodles Bowl with Vegetables",
+                            "description": "Front view of a healthy noodle bowl loaded with fresh vegetables, light and tasty.",
+                            "price": 300.00,
+                            "rating": 4.5,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761361727/noodles_bowl_with_vegetables_v96cfp.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 307,
+                            "name": "Fast Food Platter",
+                            "description": "High-angle view of indulgent fast food, including burgers, fries, and more.",
+                            "price": 350.00,
+                            "rating": 4.3,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364790/fast_food_axhdhw.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 308,
+                            "name": "Assorted Noodles Bowl",
+                            "description": "High-angle view of a variety of noodle bowls with vegetables and toppings.",
+                            "price": 320.00,
+                            "rating": 4.5,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761361721/noodles_bowl_assortment_eehdy4.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 309,
+                            "name": "Juicy Chicken Burger with Fries",
+                            "description": "Delicious chicken burger with fresh lettuce and crispy French fries, perfect combo meal.",
+                            "price": 310.00,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364791/juicy_chicken_burger_with_fries_seq8vc.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 310,
+                            "name": "Pancake with Sweet Toppings",
+                            "description": "Stack of fluffy pancakes with sweet toppings and ingredients, perfect for breakfast.",
+                            "price": 250.00,
+                            "rating": 4.4,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761361602/pancake_with_sweet_topings_gufuk4.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 311,
+                            "name": "Chicken Breast Salad with Zucchini & Cherry Tomatoes",
+                            "description": "Healthy salad with tender chicken breast, zucchini slices, and cherry tomatoes.",
+                            "price": 280.00,
+                            "rating": 4.5,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761361355/salad_chicken_breast_with_zucchini_cherry_tomatoes_xgiuv6.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 312,
+                            "name": "Chicken Salad with Vegetables & Greens",
+                            "description": "Top-view of fresh chicken salad with vegetables and greens, perfect diet-friendly meal.",
+                            "price": 300.00,
+                            "rating": 4.5,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761363886/chicken_salad_with_vegetables_greens_bcruor.jpg",
+                            "availability": true
+                        },
+                        {
+                            "id": 313,
+                            "name": "Tasty Chicken Salad",
+                            "description": "Top-view of a tasty chicken salad with fresh vegetables, light and nutritious.",
+                            "price": 300.00,
+                            "rating": 4.4,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761361178/tasty_chicken_salad_kuhtsr.jpg",
+                            "availability": true
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+]
