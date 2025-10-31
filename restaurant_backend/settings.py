@@ -30,7 +30,9 @@ SECRET_KEY = 'django-insecure-!q%#=&oglioqr3fwi1f+@y49yiv%9*#e!7@7fp1wk9mrqt=57z
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['qrfeastweb.onrender.com', 'localhost', '127.0.0.1']
+CSRF_TRUSTED_ORIGINS = ['https://qrfeastweb.onrender.com']
+
 
 
 # Application definition
@@ -109,7 +111,8 @@ DATABASES = {
 
 # ---- RENDER OVERRIDE ----
 db_from_env = dj_database_url.config(conn_max_age=600, ssl_require=True)
-DATABASES['default'].update(db_from_env or {})
+if db_from_env:
+    DATABASES['default'].update(db_from_env)
 # -----------------------------------------
 
 # Password validation
