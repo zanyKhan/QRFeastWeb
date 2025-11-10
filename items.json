@@ -8,74 +8,155 @@
                         {
                             "id": 101,
                             "name": "Chicken Biryani",
-                            "price": 250.00,
+                            "price": 250.0,
                             "rating": 4.4,
-                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761362208/chiken_biryani_fidvgc.jpg",
-                            "availability": true
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762752719/Pngtree_chicken_biryani_halal_food_menu_14885666_2_hspecs.png",
+                            "availability": true,
+                            "category": "Biryani"
                         },
                         {
                             "id": 102,
-                            "name": "Chicken Skewers",
-                            "price": 200.00,
-                            "rating": 4.4,
-                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761362438/chicken_skewers_x20kb4.png",
-                            "availability": true
+                            "name": "Bacon and Onion Pizza",
+                            "price": 320.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762752267/Pngtree_delicious_bacon_and_onion_pizza_15494717_fwap0s.png",
+                            "availability": true,
+                            "category": "Pizza"
                         },
                         {
                             "id": 103,
-                            "name": "Pepperoni Pizza",
-                            "price": 299.00,
-                            "rating": 4.4,
-                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364828/pepperoni_pizza_ywhgdm.jpg",
-                            "availability": true
+                            "name": "Fried Chicken Nuggets",
+                            "price": 180.0,
+                            "rating": 4.5,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762753148/file_0000000055447206ba677f6a8875aff7_psuwl9.png",
+                            "availability": true,
+                            "category": "Fried Chicken"
                         },
                         {
                             "id": 104,
-                            "name": "Shrimp Noodles",
-                            "price": 180.00,
-                            "rating": 4.4,
-                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364836/shrimp_noodles_i5hfs1.jpg",
-                            "availability": true
+                            "name": "Healthy Food Plate with Fruits",
+                            "price": 200.0,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762753456/file_0000000026507206bcaf5508f7e10ed4_dbxvtd.png",
+                            "availability": true,
+                            "category": "Healthy Food"
                         },
                         {
                             "id": 105,
-                            "name": "Beef Stew",
-                            "price": 220.00,
-                            "rating": 4.4,
-                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364786/beef_stew_kqtq5d.jpg",
-                            "availability": true
+                            "name": "South Indian Dosa",
+                            "price": 150.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762753279/Pngtree_delicious_south_indian_dosa_with_21550877_bgsx9u.png",
+                            "availability": true,
+                            "category": "South Indian"
                         },
                         {
                             "id": 106,
-                            "name": "Burger Meal",
-                            "price": 250.00,
-                            "rating": 4.4,
-                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761363880/burger_meal_gxd4yf.jpg",
-                            "availability": true
+                            "name": "Idli",
+                            "price": 120.0,
+                            "rating": 4.5,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762753659/file_00000000054072069e559a0d7ce4fee2_yuabej.png",
+                            "availability": true,
+                            "category": "South Indian"
                         },
                         {
                             "id": 107,
-                            "name": "Margherita Pizza",
-                            "price": 280.00,
+                            "name": "Tricolor Pasta",
+                            "price": 220.0,
                             "rating": 4.4,
-                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364833/margherita_pizza_xvenbz.jpg",
-                            "availability": true
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762753895/Pngtree_bowl_of_tricolor_pasta_with_21001498_wnkfuz.png",
+                            "availability": true,
+                            "category": "Pasta"
                         },
                         {
                             "id": 108,
-                            "name": "Beef Stew Bowl",
-                            "price": 320.00,
-                            "rating": 4.4,
-                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761363431/beef_stew_bowl_ws4cl4.jpg",
-                            "availability": true
+                            "name": "Indian Chicken Curry",
+                            "price": 260.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762754079/Pngtree_indian_chicken_curry_in_white_21194521_nb8hkw.png",
+                            "availability": true,
+                            "category": "Non-Veg Curry"
                         },
                         {
                             "id": 109,
-                            "name": "Ham & Cheese Sandwich",
+                            "name": "Paneer Butter Masala with Naan",
+                            "price": 240.0,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762754174/Pngtree_paneer_butter_masala_with_naan_22536535_jm0nl0.png",
+                            "availability": true,
+                            "category": "Veg Curry"
+                        },
+                        {
+                            "id": 110,
+                            "name": "Tandoori Chicken",
+                            "price": 280.0,
+                            "rating": 4.8,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762754337/Pngtree_tandoori_chicken_indian_food_on_22589200_sbnuol.png",
+                            "availability": true,
+                            "category": "Tandoori"
+                        },
+                        {
+                            "id": 111,
+                            "name": "Pani Puri",
+                            "price": 80.0,
+                            "rating": 4.5,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762754411/Pngtree_indian_street_food_pani_puri_20349512_leonsp.png",
+                            "availability": true,
+                            "category": "Street Food"
+                        },
+                        {
+                            "id": 112,
+                            "name": "Momos with Chutney",
+                            "price": 130.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762754633/Pngtree_symmetrical_momos_with_chutney_on_20263463_mpgfgm.png",
+                            "availability": true,
+                            "category": "Momos"
+                        },
+                        {
+                            "id": 113,
+                            "name": "Chole Bhature",
+                            "price": 160.0,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762754806/file_00000000c2087206822c7f080a502892_1_dvw6c3.png",
+                            "availability": true,
+                            "category": "North Indian"
+                        },
+                        {
+                            "id": 114,
+                            "name": "Crispy Spring Rolls",
+                            "price": 140.0,
+                            "rating": 4.5,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762755140/Pngtree_crispy_spring_rolls_served_with_15907328_dolr3d.png",
+                            "availability": true,
+                            "category": "Snacks"
+                        },
+                        {
+                            "id": 115,
+                            "name": "Idli with Sambar",
+                            "price": 130.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762755533/Screenshot_20251109-221254.Chrome_1_vjwxd8.jpg",
+                            "availability": true,
+                            "category": "South Indian"
+                        },
+                        {
+                            "id": 116,
+                            "name": "Assorted Desserts Plate",
+                            "price": 180.0,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762780594/file_000000004ce07206aad943aa97b7e033_y8zmbc.png",
+                            "availability": true,
+                            "category": "Dessert"
+                        },
+                        {
+                            "id": 117,
+                            "name": "Burger",
                             "price": 180.00,
-                            "rating": 4.4,
-                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364789/ham_cheese_sandwich_n296dj.jpg",
-                            "availability": true
+                            "rating": 4.5,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762781500/vecteezy_fast-food-burger-in-plate-isolated_48409794.png",
+                            "availability": true,
+                            "category": "Burger"
                         }
                     ]
                 },
@@ -89,7 +170,8 @@
                             "price": 350.00,
                             "rating": 4.6,
                             "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761360401/beyti_kebab_ieank4.jpg",
-                            "availability": true
+                            "availability": true,
+                            "category": "Tandoori"
                         },
                         {
                             "id": 202,
@@ -98,7 +180,8 @@
                             "price": 280.00,
                             "rating": 4.4,
                             "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761363878/cheeseburger_with_french_fries_h57vjn.jpg",
-                            "availability": true
+                            "availability": true,
+                            "category": "Street Food"
                         },
                         {
                             "id": 203,
@@ -107,7 +190,8 @@
                             "price": 400.00,
                             "rating": 4.7,
                             "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761361372/ramadan_special_meal_f9t12q.jpg",
-                            "availability": true
+                            "availability": true,
+                            "category": "Biryani"
                         },
                         {
                             "id": 204,
@@ -116,7 +200,8 @@
                             "price": 450.00,
                             "rating": 4.5,
                             "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761361596/pakistani_food_platter_dmlzwy.jpg",
-                            "availability": true
+                            "availability": true,
+                            "category": "North Indian"
                         },
                         {
                             "id": 205,
@@ -125,16 +210,18 @@
                             "price": 220.00,
                             "rating": 4.3,
                             "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761361180/vegetable_chicken_salad_ufxiqk.jpg",
-                            "availability": true
+                            "availability": true,
+                            "category": "Healthy Food"
                         },
                         {
                             "id": 206,
-                            "name": "Grilled Meat with Rice",
-                            "description": "Gourmet meal with perfectly grilled meat served with steamed rice.",
-                            "price": 500.00,
-                            "rating": 4.8,
-                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761361884/grilled_meat_with_rice_msmywb.jpg",
-                            "availability": true
+                            "name": "Cheese Burst Pizza",
+                            "price": 300.0,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762782779/Pngtree_pizza_is_on_a_dark_3639450_pueeh2.jpg",
+                            "availability": true,
+                            "category": "Pizza",
+                            "description": "Hot and cheesy pizza loaded with gooey mozzarella, crispy crust, and rich tomato sauce — perfect for all pizza lovers."
                         },
                         {
                             "id": 207,
@@ -143,7 +230,8 @@
                             "price": 350.00,
                             "rating": 4.6,
                             "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761362054/grilled_chicken_skewers_l28hqq.jpg",
-                            "availability": true
+                            "availability": true,
+                            "category": "Tandoori"
                         },
                         {
                             "id": 208,
@@ -152,16 +240,18 @@
                             "price": 400.00,
                             "rating": 4.5,
                             "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761359723/beef_curry_with_rice_zi1ksk.jpg",
-                            "availability": true
+                            "availability": true,
+                            "category": "Non-Veg Curry"
                         },
                         {
                             "id": 209,
-                            "name": "Meat Stew with Potatoes",
-                            "description": "Hearty meat stew plate with potatoes, pepper, herbs, onion, and pomegranate seeds.",
-                            "price": 450.00,
+                            "name": "Fried Drumsticks with Fries",
+                            "price": 280.0,
                             "rating": 4.6,
-                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761361722/meat_stew_with_potatoes_ymu7jw.jpg",
-                            "availability": true
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762783310/top-view-fried-drumsticks-with-french-fries_vkjkll.jpg",
+                            "availability": true,
+                            "category": "Fried Chicken",
+                            "description": "Crispy fried chicken drumsticks served with golden french fries — a perfect combo of crunch and flavor."
                         },
                         {
                             "id": 210,
@@ -170,7 +260,8 @@
                             "price": 320.00,
                             "rating": 4.4,
                             "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761361591/penne_pasta_with_chicken_eywllg.jpg",
-                            "availability": true
+                            "availability": true,
+                            "category": "Pasta"
                         },
                         {
                             "id": 211,
@@ -179,7 +270,8 @@
                             "price": 300.00,
                             "rating": 4.3,
                             "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761361360/pre_prepared_delicious_meals_desile.jpg",
-                            "availability": true
+                            "availability": true,
+                            "category": "Healthy Food"
                         },
                         {
                             "id": 212,
@@ -188,7 +280,8 @@
                             "price": 550.00,
                             "rating": 4.7,
                             "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364818/roasted_lamb_with_vegetables_kaoikd.jpg",
-                            "availability": true
+                            "availability": true,
+                            "category": "Tandoori"
                         },
                         {
                             "id": 213,
@@ -197,7 +290,8 @@
                             "price": 280.00,
                             "rating": 4.4,
                             "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761360409/chicken_meatballs_with_greens_mpszwx.jpg",
-                            "availability": true
+                            "availability": true,
+                            "category": "Healthy Food"
                         },
                         {
                             "id": 214,
@@ -206,7 +300,8 @@
                             "price": 400.00,
                             "rating": 4.5,
                             "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364836/wooden_table_food_arrangement_u0hkrk.jpg",
-                            "availability": true
+                            "availability": true,
+                            "category": "Healthy Food"
                         },
                         {
                             "id": 215,
@@ -215,7 +310,8 @@
                             "price": 320.00,
                             "rating": 4.4,
                             "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364787/cooked_pasta_with_salads_ohpowe.jpg",
-                            "availability": true
+                            "availability": true,
+                            "category": "Pasta"
                         },
                         {
                             "id": 216,
@@ -224,7 +320,8 @@
                             "price": 500.00,
                             "rating": 4.6,
                             "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761362048/full_table_delicious_food_giiey3.jpg",
-                            "availability": true
+                            "availability": true,
+                            "category": "North Indian"
                         },
                         {
                             "id": 217,
@@ -233,7 +330,8 @@
                             "price": 550.00,
                             "rating": 4.7,
                             "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761362209/delicious-food-table_tageyz.jpg",
-                            "availability": true
+                            "availability": true,
+                            "category": "Veg Curry"
                         },
                         {
                             "id": 218,
@@ -242,7 +340,28 @@
                             "price": 350.00,
                             "rating": 4.2,
                             "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364797/fattening-unhealthy-fast-food_m4ht3l.jpg",
-                            "availability": true
+                            "availability": true,
+                            "category": "Street Food"
+                        },
+                        {
+                            "id": 219,
+                            "name": "Ice Cream with Strawberries and Chocolate",
+                            "description": "A delightful scoop of creamy vanilla ice cream topped with fresh strawberries, rich chocolate drizzle, and served on a white plate for the perfect dessert indulgence.",
+                            "price": 160.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762782506/ice-cream-with-strawberries-chocolate-white-plate_qhxae8.jpg",
+                            "availability": true,
+                            "category": "Dessert"
+                        },
+                        {
+                            "id": 220,
+                            "name": "Momos Platter",
+                            "description": "A delicious assortment of steamed and fried momos, served with spicy and tangy chutneys.",
+                            "price": 250.00,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762781090/view-delicious-food-chinese-new-year-reunion-dinner_1_n9iu21.jpg",
+                            "availability": true,
+                            "category": "Momos"
                         }
                     ]
                 },
@@ -256,7 +375,8 @@
                             "price": 299.00,
                             "rating": 4.5,
                             "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364794/juicy_beef_burger_csjtab.jpg",
-                            "availability": true
+                            "availability": true,
+                            "category": "Burger"
                         },
                         {
                             "id": 302,
@@ -265,79 +385,88 @@
                             "price": 350.00,
                             "rating": 4.6,
                             "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364831/chicken_skewers_with_apples_chili_hd2hkc.jpg",
-                            "availability": true
+                            "availability": true,
+                            "category": "Tandoori"
                         },
                         {
                             "id": 303,
-                            "name": "Chicken Skewers with Apple & Chili",
-                            "description": "Tender chicken skewers served with sliced apples and chili, perfect for a light meal.",
-                            "price": 350.00,
-                            "rating": 4.5,
-                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364780/chicken_skewers_with_slices_apples_chili_cjk5um.jpg",
-                            "availability": true
-                        },
-                        {
-                            "id": 304,
-                            "name": "Chicken Skewers with Sweet Peppers & Dill",
-                            "description": "Juicy grilled chicken skewers with sweet pepper slices and fresh dill, healthy and flavorful.",
-                            "price": 360.00,
-                            "rating": 4.6,
-                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761362472/chicken_skewers_with_slices_sweet_peppers_dill_g1zqvb.jpg",
-                            "availability": true
-                        },
-                        {
-                            "id": 305,
                             "name": "Flat-lay Chicken Salad with Sesame Seeds",
                             "description": "Fresh chicken salad topped with sesame seeds, perfect for a light and healthy meal.",
                             "price": 280.00,
                             "rating": 4.4,
                             "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761362044/flat_lay_salad_with_chicken_sesame_seeds_t0zgks.jpg",
-                            "availability": true
+                            "availability": true,
+                            "category": "Healthy Food"
                         },
                         {
-                            "id": 306,
+                            "id": 304,
                             "name": "Noodles Bowl with Vegetables",
                             "description": "Front view of a healthy noodle bowl loaded with fresh vegetables, light and tasty.",
                             "price": 300.00,
                             "rating": 4.5,
                             "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761361727/noodles_bowl_with_vegetables_v96cfp.jpg",
-                            "availability": true
+                            "availability": true,
+                            "category": "Street Food"
                         },
                         {
-                            "id": 307,
+                            "id": 305,
                             "name": "Fast Food Platter",
                             "description": "High-angle view of indulgent fast food, including burgers, fries, and more.",
                             "price": 350.00,
                             "rating": 4.3,
                             "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364790/fast_food_axhdhw.jpg",
-                            "availability": true
+                            "availability": true,
+                            "category": "Street Food"
                         },
                         {
-                            "id": 308,
+                            "id": 306,
                             "name": "Assorted Noodles Bowl",
                             "description": "High-angle view of a variety of noodle bowls with vegetables and toppings.",
                             "price": 320.00,
                             "rating": 4.5,
                             "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761361721/noodles_bowl_assortment_eehdy4.jpg",
-                            "availability": true
+                            "availability": true,
+                            "category": "Street Food"
                         },
                         {
-                            "id": 309,
+                            "id": 307,
                             "name": "Juicy Chicken Burger with Fries",
                             "description": "Delicious chicken burger with fresh lettuce and crispy French fries, perfect combo meal.",
                             "price": 310.00,
                             "rating": 4.6,
                             "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364791/juicy_chicken_burger_with_fries_seq8vc.jpg",
-                            "availability": true
+                            "availability": true,
+                            "category": "Burger"
                         },
                         {
-                            "id": 310,
+                            "id": 308,
+                            "name": "Grilled Meat with Rice",
+                            "description": "Gourmet meal with perfectly grilled meat served with steamed rice.",
+                            "price": 500.00,
+                            "rating": 4.8,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761361884/grilled_meat_with_rice_msmywb.jpg",
+                            "availability": true,
+                            "category": "Tandoori"
+                        },
+                        {
+                            "id": 309,
                             "name": "Pancake with Sweet Toppings",
                             "description": "Stack of fluffy pancakes with sweet toppings and ingredients, perfect for breakfast.",
                             "price": 250.00,
                             "rating": 4.4,
                             "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761361602/pancake_with_sweet_topings_gufuk4.jpg",
-                            "availability": true
+                            "availability": true,
+                            "category": "Dessert"
+                        },
+                        {
+                            "id": 310,
+                            "name": "Chicken Skewers with Apple & Chili",
+                            "description": "Tender chicken skewers served with sliced apples and chili, perfect for a light meal.",
+                            "price": 350.00,
+                            "rating": 4.5,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364780/chicken_skewers_with_slices_apples_chili_cjk5um.jpg",
+                            "availability": true,
+                            "category": "Tandoori"
                         },
                         {
                             "id": 311,
@@ -346,7 +475,8 @@
                             "price": 280.00,
                             "rating": 4.5,
                             "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761361355/salad_chicken_breast_with_zucchini_cherry_tomatoes_xgiuv6.jpg",
-                            "availability": true
+                            "availability": true,
+                            "category": "Healthy Food"
                         },
                         {
                             "id": 312,
@@ -355,7 +485,8 @@
                             "price": 300.00,
                             "rating": 4.5,
                             "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761363886/chicken_salad_with_vegetables_greens_bcruor.jpg",
-                            "availability": true
+                            "availability": true,
+                            "category": "Healthy Food"
                         },
                         {
                             "id": 313,
@@ -364,7 +495,768 @@
                             "price": 300.00,
                             "rating": 4.4,
                             "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761361178/tasty_chicken_salad_kuhtsr.jpg",
-                            "availability": true
+                            "availability": true,
+                            "category": "Healthy Food"
+                        },
+                        {
+                            "id": 314,
+                            "name": "Baked Chicken Drumsticks (Honey Mustard Marinade)",
+                            "description": "Juicy baked chicken drumsticks marinated in honey mustard, tender on the inside with a golden crust.",
+                            "price": 280.00,
+                            "rating": 4.5,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762780919/baked-chicken-drumsticks-honey-mustard-marinade_d1nzgw.jpg",
+                            "availability": true,
+                            "category": "Tandoori"
+                        },
+                        {
+                            "id": 315,
+                            "name": "Meat Stew with Potatoes",
+                            "description": "Hearty meat stew plate with potatoes, pepper, herbs, onion, and pomegranate seeds.",
+                            "price": 450.00,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761361722/meat_stew_with_potatoes_ymu7jw.jpg",
+                            "availability": true,
+                            "category": "Non-Veg Curry"
+                        },
+                        {
+                            "id": 316,
+                            "name": "Chicken Skewers with Sweet Peppers & Dill",
+                            "description": "Juicy grilled chicken skewers with sweet pepper slices and fresh dill, healthy and flavorful.",
+                            "price": 360.00,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761362472/chicken_skewers_with_slices_sweet_peppers_dill_g1zqvb.jpg",
+                            "availability": true,
+                            "category": "Tandoori"
+                        },
+                        {
+                            "id": 317,
+                            "name": "Delicious Indian Chana Masala with Puri",
+                            "description": "Classic North Indian dish featuring spicy chana masala served with crispy puris.",
+                            "price": 180.00,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762785017/delicious-indian-chana-masala-with-puri_vqauiy.jpg",
+                            "availability": true,
+                            "category": "North Indian"
+                        },
+                        {
+                            "id": 318,
+                            "name": "Top View Tasty Pakistani Dish",
+                            "description": "Rich and flavorful Pakistani-style non-veg curry served with rice or naan.",
+                            "price": 260.00,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762784998/top-view-tasty-pakistani-dish_sl0tzg.jpg",
+                            "availability": true,
+                            "category": "Non-Veg Curry"
+                        },
+                        {
+                            "id": 319,
+                            "name": "Chole Bhature on Banana Leaf",
+                            "description": "Traditional North Indian chole bhature served beautifully on a banana leaf for an authentic touch.",
+                            "price": 170.00,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762784949/chole-bhature-banana-leaf_pruluz.jpg",
+                            "availability": true,
+                            "category": "North Indian"
+                        },
+                        {
+                            "id": 320,
+                            "name": "High Angle Chicken Meal",
+                            "description": "A hearty non-vegetarian meal with chicken curry and sides, full of flavor and spices.",
+                            "price": 270.00,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762784957/high-angle-chicken-meal_pksstt.jpg",
+                            "availability": true,
+                            "category": "Non-Veg Curry"
+                        },
+                        {
+                            "id": 321,
+                            "name": "Chana Bhatura on Black Plate",
+                            "description": "Delicious chole bhature served on a stylish black plate, perfect for North Indian food lovers.",
+                            "price": 165.00,
+                            "rating": 4.5,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762784951/chana-bhatura-black-plate_uo9jmz.jpg",
+                            "availability": true,
+                            "category": "North Indian"
+                        },
+                        {
+                            "id": 322,
+                            "name": "Vertical View Chicken Salad",
+                            "description": "Freshly prepared salad with grilled chicken, greens, and vibrant vegetables for a healthy meal.",
+                            "price": 220.00,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762785027/vertical-view-delicious-salad-with-many-fresh-ingredients-wooden-cutting-board-black-green-mix-colors-background_qxlxd4.jpg",
+                            "availability": true,
+                            "category": "Healthy Food"
+                        },
+                        {
+                            "id": 323,
+                            "name": "Close-Up Delicious Chicken Meal",
+                            "description": "Tender chicken served with flavorful sides, a perfect example of classic non-veg curry cuisine.",
+                            "price": 260.00,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762785013/close-up-delicious-chicken-meal_phekn7.jpg",
+                            "availability": true,
+                            "category": "Non-Veg Curry"
+                        },
+                        {
+                            "id": 324,
+                            "name": "Pasta with Tomato and Cheese",
+                            "description": "Creamy pasta mixed with tomato sauce and melted cheese for a rich Italian-style taste.",
+                            "price": 230.00,
+                            "rating": 4.5,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762785020/pasta-with-tomato-cheese_acwfck.jpg",
+                            "availability": true,
+                            "category": "Pasta"
+                        },
+                        {
+                            "id": 325,
+                            "name": "Top View Fish and Chips Plate",
+                            "description": "Classic fish and chips served with lemon slices, crunchy fries, and tartar sauce.",
+                            "price": 280.00,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762784973/top-view-fish-chips-plate-with-lemon-slice_htci6i.jpg",
+                            "availability": true,
+                            "category": "Fried Chicken"
+                        },
+                        {
+                            "id": 326,
+                            "name": "Flat Lay Chicken Salad with Sesame Seeds",
+                            "description": "A nutritious mix of chicken, sesame seeds, and greens — light, fresh, and full of flavor.",
+                            "price": 210.00,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762784989/flat-lay-salad-with-chicken-sesame-seeds_1_tymnqn.jpg",
+                            "availability": true,
+                            "category": "Healthy Food"
+                        },
+                        {
+                            "id": 327,
+                            "name": "Biryani Plate with Bunch of Food Items",
+                            "description": "Plate of delicious biryani accompanied by a variety of Indian side dishes.",
+                            "price": 270.0,
+                            "rating": 4.8,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762786410/plate-biryani-with-bunch-food-it_1_chxlxd.jpg",
+                            "availability": true,
+                            "category": "Biryani"
+                        },
+                        {
+                            "id": 328,
+                            "name": "Asian Dumplings with Oysters",
+                            "description": "Steamed and flavorful Asian dumplings served with fresh oysters for a gourmet experience.",
+                            "price": 280.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762786398/front-view-asian-dumplings-oysters_vo0ky7.jpg",
+                            "availability": true,
+                            "category": "Momos"
+                        },
+                        {
+                            "id": 329,
+                            "name": "Penne Pasta with Tomato Sauce & Bell Pepper",
+                            "description": "Classic Italian penne pasta cooked with rich tomato sauce and fresh bell peppers.",
+                            "price": 230.0,
+                            "rating": 4.5,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762786405/top-view-penne-pasta-with-tomato-sauce-bell-pepper_u4yyxa.jpg",
+                            "availability": true,
+                            "category": "Pasta"
+                        },
+                        {
+                            "id": 330,
+                            "name": "Cheese Pizza with Olives, Pepper & Tomatoes",
+                            "description": "Delicious cheesy pizza topped with olives, bell peppers, and cherry tomatoes on a dark crust.",
+                            "price": 320.0,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762786405/front-view-delicious-cheese-pizza-consists-olives-pepper-tomatoes-dark-surface_ljlq59.jpg",
+                            "availability": true,
+                            "category": "Pizza"
+                        },
+                        {
+                            "id": 331,
+                            "name": "Sweet Cake with Cream, Oreo & Strawberry",
+                            "description": "Soft and moist cake topped with cream, Oreo pieces, and fresh strawberries.",
+                            "price": 180.0,
+                            "rating": 4.8,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762786348/sweet-cake-with-cream-oreo-strawberry_m5lzdr.jpg",
+                            "availability": true,
+                            "category": "Dessert"
+                        },
+                        {
+                            "id": 332,
+                            "name": "Gourmet Chicken Biryani with Steamed Basmati Rice",
+                            "description": "Fragrant basmati rice cooked with succulent chicken pieces and rich Indian spices.",
+                            "price": 260.0,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762786363/gourmet-chicken-biryani-with-steamed-basmati-rice-generated-by-ai_vwa3xh.jpg",
+                            "availability": true,
+                            "category": "Biryani"
+                        },
+                        {
+                            "id": 333,
+                            "name": "World Food Platter",
+                            "description": "A delightful assortment of dishes from around the world, perfect for global cuisine lovers.",
+                            "price": 400.0,
+                            "rating": 4.8,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762786360/view-delicious-food-from-around-world_hq8ah6.jpg",
+                            "availability": true,
+                            "category": "Healthy Food"
+                        },
+                        {
+                            "id": 334,
+                            "name": "Grilled Seafood Paella",
+                            "description": "Gourmet paella with grilled seafood, rice, and vegetables — a healthy and flavorful meal.",
+                            "price": 450.0,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762786379/grilled-seafood-paella-gourmet-healthy-meal-generated-by-ai_hvpvdq.jpg",
+                            "availability": true,
+                            "category": "Non-Veg Curry"
+                        },
+                        {
+                            "id": 335,
+                            "name": "Delicious Pasta Arrangement",
+                            "description": "Top-view of assorted pasta served with fresh ingredients and sauces for a gourmet touch.",
+                            "price": 230.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762786388/top-view-delicious-pasta-arrangement_gmaajo.jpg",
+                            "availability": true,
+                            "category": "Pasta"
+                        },
+                        {
+                            "id": 336,
+                            "name": "Biryani Plate with Rice Bowl",
+                            "description": "Hearty biryani served on a plate with a bowl of steamed rice — perfect North Indian meal.",
+                            "price": 260.0,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762786402/plate-biryani-with-bowl-rice-bowl-food-table_1_ybrdgy.jpg",
+                            "availability": true,
+                            "category": "Biryani"
+                        },
+                        {
+                            "id": 337,
+                            "name": "Plate of Chana Bhatura",
+                            "description": "Delicious North Indian chana bhatura served with flavorful chickpeas and soft bhaturas.",
+                            "price": 165.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762786385/IMG-20251108-WA0001_t01fxa.jpg",
+                            "availability": true,
+                            "category": "North Indian"
+                        },
+                        {
+                            "id": 338,
+                            "name": "Idli with Sambar and Chutney",
+                            "description": "Soft and fluffy South Indian idlis served with sambar and coconut chutney.",
+                            "price": 130.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762786382/Screenshot_20251109-221331.Chrome_1_pusgib.jpg",
+                            "availability": true,
+                            "category": "South Indian"
+                        },
+                        {
+                            "id": 339,
+                            "name": "Fried Chicken Nuggets Plate",
+                            "description": "Crispy fried chicken nuggets served with sides, a perfect snack for any time.",
+                            "price": 180.0,
+                            "rating": 4.5,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762786373/IMG-20251108-WA0010_vvecki.jpg",
+                            "availability": true,
+                            "category": "Fried Chicken"
+                        },
+                        {
+                            "id": 340,
+                            "name": "South Indian Dosa with Sambar",
+                            "description": "Delicious golden-brown South Indian dosa served with sambar and coconut chutney.",
+                            "price": 150.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762786364/Screenshot_20251109-221314.Chrome_1_d4vnfj.jpg",
+                            "availability": true,
+                            "category": "South Indian"
+                        },
+                        {
+                            "id": 341,
+                            "name": "Healthy Mixed Salad",
+                            "description": "A fresh and nutritious salad made with a variety of vegetables and greens.",
+                            "price": 200.0,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762786351/Screenshot_20251109-221658.Chrome_1_nl3p5t.jpg",
+                            "availability": true,
+                            "category": "Healthy Food"
+                        },
+                        {
+                            "id": 342,
+                            "name": "Fruit Cake with Chocolate Chips & Blueberries",
+                            "description": "Delicious soft fruit cake topped with chocolate chips and fresh blueberries.",
+                            "price": 200.0,
+                            "rating": 4.8,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762788040/fruit-cake-with-chocolate-chips-blueberries_giqvnb.jpg",
+                            "availability": true,
+                            "category": "Dessert"
+                        },
+                        {
+                            "id": 343,
+                            "name": "Delicious Dumplings",
+                            "description": "Steamed dumplings filled with savory ingredients, a perfect Asian appetizer.",
+                            "price": 250.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762787997/view-delicious-dumplings_pfroem.jpg",
+                            "availability": true,
+                            "category": "Momos"
+                        },
+                        {
+                            "id": 344,
+                            "name": "Pancakes with Ketchup Sauce",
+                            "description": "Fluffy pancakes served with tangy ketchup sauce, ideal for breakfast or snack.",
+                            "price": 150.0,
+                            "rating": 4.5,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762787992/pancakes-with-ketchup-sauce_n6cxx2.jpg",
+                            "availability": true,
+                            "category": "Snacks"
+                        },
+                        {
+                            "id": 345,
+                            "name": "Deep Fried Spring Rolls",
+                            "description": "Crispy golden spring rolls stuffed with fresh vegetables and served hot.",
+                            "price": 140.0,
+                            "rating": 4.5,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762787990/deep-fried-spring-rolls_xupiv5.jpg",
+                            "availability": true,
+                            "category": "Snacks"
+                        },
+                        {
+                            "id": 346,
+                            "name": "Chole Bhature on Banana Leaf",
+                            "description": "Classic North Indian chole bhature served traditionally on a banana leaf.",
+                            "price": 165.0,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762787989/IMG-20251108-WA0003_avvlvv.jpg",
+                            "availability": true,
+                            "category": "North Indian"
+                        },
+                        {
+                            "id": 347,
+                            "name": "South Indian Idli with Sambar",
+                            "description": "Soft idlis served with sambar and chutney, authentic South Indian breakfast.",
+                            "price": 130.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762787988/Screenshot_20251109-221717.Chrome_1_vd21by.jpg",
+                            "availability": true,
+                            "category": "South Indian"
+                        },
+                        {
+                            "id": 348,
+                            "name": "Delicious Pizza",
+                            "description": "Cheesy pizza with fresh toppings, baked to perfection in a dark crust.",
+                            "price": 320.0,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762787986/delicious-pizza-studio_jstacx.jpg",
+                            "availability": true,
+                            "category": "Pizza"
+                        },
+                        {
+                            "id": 349,
+                            "name": "Cheese Spring Rolls",
+                            "description": "Crispy spring rolls stuffed with cheese, perfect as a snack or appetizer.",
+                            "price": 145.0,
+                            "rating": 4.5,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762787985/spring-rolls-with-cheese-dark-background_akh7qq.jpg",
+                            "availability": true,
+                            "category": "Snacks"
+                        },
+                        {
+                            "id": 350,
+                            "name": "Indian Street Food Platter",
+                            "description": "A delightful assortment of popular Indian street foods, perfect for sharing.",
+                            "price": 300.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762787979/delicious-indian-street-food-platter_rnqmxi.jpg",
+                            "availability": true,
+                            "category": "Street Food"
+                        },
+                        {
+                            "id": 351,
+                            "name": "Chana Masala with Puri",
+                            "description": "Classic Indian chana masala served with soft puris for a hearty meal.",
+                            "price": 160.0,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762787977/delicious-indian-chana-masala-with-puri_1_qizdqn.jpg",
+                            "availability": true,
+                            "category": "North Indian"
+                        },
+                        {
+                            "id": 352,
+                            "name": "Indian Culinary Experience",
+                            "description": "A rich variety of Indian dishes served together for a wholesome meal experience.",
+                            "price": 400.0,
+                            "rating": 4.8,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762787969/delicious-indian-culinary-experience_nqr9dn.jpg",
+                            "availability": true,
+                            "category": "North Indian"
+                        },
+                        {
+                            "id": 353,
+                            "name": "Full Table Delicious Food",
+                            "description": "Top-view of a full table filled with a variety of delicious dishes.",
+                            "price": 450.0,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762787966/top-view-table-full-delicious-food-composition_1_1_gzrbdt.jpg",
+                            "availability": true,
+                            "category": "Healthy Food"
+                        },
+                        {
+                            "id": 354,
+                            "name": "Turkish Borek Served with Herbs",
+                            "description": "Flaky Turkish borek served with fresh herbs for a flavorful experience.",
+                            "price": 220.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762787958/turkish-borek-served-with-herbs_yy35xy.jpg",
+                            "availability": true,
+                            "category": "Snacks"
+                        },
+                        {
+                            "id": 355,
+                            "name": "Asian Cuisine Close-up",
+                            "description": "Close-up of delicious Asian food prepared with fresh ingredients.",
+                            "price": 250.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762787936/close-up-delicious-asian-food_1_th7yig.jpg",
+                            "availability": true,
+                            "category": "Momos"
+                        },
+                        {
+                            "id": 356,
+                            "name": "Indian Curry with Sides",
+                            "description": "Hearty Indian curry served with traditional side dishes.",
+                            "price": 280.0,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762787914/WhatsApp_Image_2025-11-10_at_11.31.36_AM_kcgknh.jpg",
+                            "availability": true,
+                            "category": "Non-Veg Curry"
+                        },
+                        {
+                            "id": 357,
+                            "name": "Young Boiled Potatoes with Butter & Dill",
+                            "description": "Soft boiled potatoes tossed with butter and fresh dill, served on a white plate.",
+                            "price": 180.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762789155/young-boiled-potatoes-with-butter-dill-white-plate_fcpsfk.jpg",
+                            "availability": true,
+                            "category": "Healthy Food"
+                        },
+                        {
+                            "id": 358,
+                            "name": "Fish & Chips Plate",
+                            "description": "Classic fried fish with crispy golden fries, served with a slice of lemon.",
+                            "price": 280.0,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762789149/top-view-fish-chips-plate-with-copy-space_lh4yfs.jpg",
+                            "availability": true,
+                            "category": "Fast Food"
+                        },
+                        {
+                            "id": 359,
+                            "name": "Vegan Salad with Fresh Ingredients",
+                            "description": "Freshly prepared vegan salad with mixed greens, vegetables, and herbs.",
+                            "price": 220.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762789151/front-view-delicious-vegan-salad-with-fresh-ingredients-plate_ayeccv.jpg",
+                            "availability": true,
+                            "category": "Healthy Food"
+                        },
+                        {
+                            "id": 360,
+                            "name": "Healthy Homemade Stew",
+                            "description": "A warm, nutritious homemade stew packed with vegetables.",
+                            "price": 250.0,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762789153/healthy-homemade-stew-dish_quwx2r.jpg",
+                            "availability": true,
+                            "category": "Healthy Food"
+                        },
+                        {
+                            "id": 361,
+                            "name": "Full Plate Homemade Salad",
+                            "description": "Top view of a delicious homemade salad with a variety of fresh ingredients.",
+                            "price": 220.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762789145/top-view-homemade-delicious-salad-with-many-ingredients-plate-black-green-mix-colors-background_pa1j2o.jpg",
+                            "availability": true,
+                            "category": "Healthy Food"
+                        },
+                        {
+                            "id": 362,
+                            "name": "Indian Classic Dish",
+                            "description": "Traditional Indian dish with authentic flavors, served hot.",
+                            "price": 280.0,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762789131/delicious-indian-classic_ufdcot.jpg",
+                            "availability": true,
+                            "category": "North Indian"
+                        },
+                        {
+                            "id": 363,
+                            "name": "Crispy Chicken with Ketchup & Salad",
+                            "description": "Golden fried chicken served with fresh vegetable salad and ketchup.",
+                            "price": 320.0,
+                            "rating": 4.8,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762789129/crispy-chicken-with-ketchup-fresh-vegetable-salad_gfphyq.jpg",
+                            "availability": true,
+                            "category": "Fried Chicken"
+                        },
+                        {
+                            "id": 364,
+                            "name": "Pre-prepared Ready-to-Eat Meals",
+                            "description": "Convenient pre-prepared meals showcasing a variety of delicious food.",
+                            "price": 400.0,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762789118/pre-prepared-food-showcasing-ready-eat-delicious-meals-go_2_gk3me9.jpg",
+                            "availability": true,
+                            "category": "Healthy Food"
+                        },
+                        {
+                            "id": 365,
+                            "name": "Freshly Cooked Pork with Rice",
+                            "description": "Delicious pork served with steamed rice, freshly cooked and ready to serve.",
+                            "price": 380.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762789117/freshly-cooked-meal-pork-rice-generated-by-ai_nckqra.jpg",
+                            "availability": true,
+                            "category": "Non-Veg Curry"
+                        },
+                        {
+                            "id": 366,
+                            "name": "Indian Dosa Arrangement",
+                            "description": "Top view of freshly made Indian dosas arranged beautifully on a plate.",
+                            "price": 150.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762789105/delicious-indian-dosa-arrangement_awfhd0.jpg",
+                            "availability": true,
+                            "category": "South Indian"
+                        },
+                        {
+                            "id": 367,
+                            "name": "Assorted Cake Pieces",
+                            "description": "A variety of cake pieces arranged beautifully, perfect for desserts.",
+                            "price": 200.0,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762789094/assortment-pieces-cake_hcfu1l.jpg",
+                            "availability": true,
+                            "category": "Dessert"
+                        },
+                        {
+                            "id": 368,
+                            "name": "Chicken Kebab with Lavash & Sauce",
+                            "description": "Grilled chicken kebabs served with lavash bread and onion adjika sauce.",
+                            "price": 320.0,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762789080/side-view-chicken-kebab-lavash-served-with-fresh-herbs-onion-adjika-sauce_smn8gl.jpg",
+                            "availability": true,
+                            "category": "Tandoori"
+                        },
+                        {
+                            "id": 369,
+                            "name": "Mixed Pizza with Various Ingredients",
+                            "description": "A delicious pizza topped with a variety of fresh ingredients.",
+                            "price": 320.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762789081/mixed-pizza-with-various-ingridients_ysqfq1.jpg",
+                            "availability": true,
+                            "category": "Pizza"
+                        },
+                        {
+                            "id": 370,
+                            "name": "Pizza with Bell Pepper Slices",
+                            "description": "Side view of pizza with bell pepper slices on a wooden board.",
+                            "price": 320.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762789071/side-view-pizza-with-slices-bell-pepper-pizza-slices-flour-board-cookware_sgo1z3.jpg",
+                            "availability": true,
+                            "category": "Pizza"
+                        },
+                        {
+                            "id": 371,
+                            "name": "Delicious Meal Table",
+                            "description": "Top view of a full table with a variety of delicious dishes.",
+                            "price": 450.0,
+                            "rating": 4.8,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762789065/delicious-meal-table_1_ppfmk4.jpg",
+                            "availability": true,
+                            "category": "Non-Veg Curry"
+                        },
+                        {
+                            "id": 372,
+                            "name": "Birthday Cake",
+                            "description": "A decorated birthday cake, perfect for celebrations.",
+                            "price": 250.0,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762789059/birthday-cake_mnyiaw.jpg",
+                            "availability": true,
+                            "category": "Dessert"
+                        },
+                        {
+                            "id": 373,
+                            "name": "Nutritious Indian Dosa Assortment",
+                            "description": "A plate of assorted dosas, freshly made and nutritious.",
+                            "price": 160.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762789060/nutritious-indian-dosa-assortment_nveohi.jpg",
+                            "availability": true,
+                            "category": "South Indian"
+                        },
+                        {
+                            "id": 374,
+                            "name": "Traditional Asian Dumplings with Herbs",
+                            "description": "Steamed Asian dumplings garnished with fresh herbs.",
+                            "price": 180.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762789058/traditional-asian-dumplings-with-herbs_xwrl8f.jpg",
+                            "availability": true,
+                            "category": "Momos"
+                        },
+                        {
+                            "id": 375,
+                            "name": "High Angle Pakistan Meal Composition",
+                            "description": "Top view of a Pakistani meal with multiple dishes.",
+                            "price": 400.0,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762789042/high-angle-pakistan-meal-composition_kfeopg.jpg",
+                            "availability": true,
+                            "category": "Non-Veg Curry"
+                        },
+                        {
+                            "id": 376,
+                            "name": "Chicken & Lemon Plate",
+                            "description": "Delicious plate of cooked chicken served with lemon slices.",
+                            "price": 350.0,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762789034/plate-food-with-lemon-lemon_pl2s0k.jpg",
+                            "availability": true,
+                            "category": "Non-Veg Curry"
+                        },
+                        {
+                            "id": 377,
+                            "name": "Ice Cream with Strawberries & Chocolate",
+                            "description": "Delicious vanilla ice cream topped with fresh strawberries and chocolate drizzle.",
+                            "price": 150.0,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762782684/ice-cream-with-strawberries-chocolate-white-plate.png",
+                            "availability": true,
+                            "category": "Dessert"
+                        },
+                        {
+                            "id": 378,
+                            "name": "Pizza on Dark Background",
+                            "description": "Hot cheesy pizza with olives and pepper slices served on a dark surface.",
+                            "price": 320.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762782779/Pngtree_pizza_is_on_a_dark_3639450_pueeh2.jpg",
+                            "availability": true,
+                            "category": "Pizza"
+                        },
+                        {
+                            "id": 379,
+                            "name": "Fried Drumsticks with French Fries",
+                            "description": "Crispy fried chicken drumsticks served with golden French fries.",
+                            "price": 280.0,
+                            "rating": 4.5,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762782860/top-view-fried-drumsticks-with-french-fries.jpg",
+                            "availability": true,
+                            "category": "Fried Chicken"
+                        },
+                        {
+                            "id": 380,
+                            "name": "Big Juicy Beef Burger",
+                            "description": "A massive beef burger with fresh lettuce, tomato, and cheese, served with fries.",
+                            "price": 200.0,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762782900/big-juicy-beef-burger.jpg",
+                            "availability": true,
+                            "category": "Burger"
+                        },
+                        {
+                            "id": 381,
+                            "name": "Chicken Skewers with Apple & Chili",
+                            "description": "Tender grilled chicken skewers paired with apple slices and mild chili for extra flavor.",
+                            "price": 360.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762782950/chicken-skewers-with-apple-chili.jpg",
+                            "availability": true,
+                            "category": "Tandoori"
+                        },
+                        {
+                            "id": 382,
+                            "name": "Flat-lay Chicken Salad with Sesame Seeds",
+                            "description": "Healthy salad with fresh chicken slices and sesame seeds, colorful and nutritious.",
+                            "price": 220.0,
+                            "rating": 4.5,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762783000/flat-lay-salad-with-chicken-sesame-seeds-1.jpg",
+                            "availability": true,
+                            "category": "Healthy Food"
+                        },
+                        {
+                            "id": 383,
+                            "name": "Noodles Bowl with Vegetables",
+                            "description": "Asian style stir-fried noodles with fresh vegetables, perfect for a light meal.",
+                            "price": 180.0,
+                            "rating": 4.4,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762783050/noodles-bowl-with-vegetables.jpg",
+                            "availability": true,
+                            "category": "Pasta"
+                        },
+                        {
+                            "id": 384,
+                            "name": "Chicken Breast Salad with Zucchini & Cherry Tomatoes",
+                            "description": "Grilled chicken breast served with zucchini and cherry tomatoes for a healthy lunch.",
+                            "price": 230.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762783100/chicken-breast-salad-with-zucchini-cherry-tomatoes.jpg",
+                            "availability": true,
+                            "category": "Healthy Food"
+                        },
+                        {
+                            "id": 385,
+                            "name": "Tasty Chicken Salad",
+                            "description": "Mixed greens with juicy chicken chunks, fresh veggies, and light dressing.",
+                            "price": 200.0,
+                            "rating": 4.5,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762783150/tasty-chicken-salad.jpg",
+                            "availability": true,
+                            "category": "Healthy Food"
+                        },
+                        {
+                            "id": 386,
+                            "name": "Delicious Indian Chana Masala with Puri",
+                            "description": "Classic spicy chana masala served with crispy puris.",
+                            "price": 160.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762787977/delicious-indian-chana-masala-with-puri_1_qizdqn.jpg",
+                            "availability": true,
+                            "category": "North Indian"
+                        },
+                        {
+                            "id": 387,
+                            "name": "Chole Bhature Banana Leaf",
+                            "description": "Traditional chole bhature served on a banana leaf, authentic Indian breakfast.",
+                            "price": 160.0,
+                            "rating": 4.7,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762787989/IMG-20251108-WA0003_avvlvv.jpg",
+                            "availability": true,
+                            "category": "North Indian"
+                        },
+                        {
+                            "id": 388,
+                            "name": "Top View Tasty Pakistani Dish",
+                            "description": "A visually appealing plate of traditional Pakistani cuisine.",
+                            "price": 270.0,
+                            "rating": 4.5,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762787992/pancakes-with-ketchup-sauce_n6cxx2.jpg",
+                            "availability": true,
+                            "category": "Non-Veg Curry"
+                        },
+                        {
+                            "id": 389,
+                            "name": "Chana Bhatura Black Plate",
+                            "description": "Spicy chickpeas curry served with bhatura on a black plate.",
+                            "price": 160.0,
+                            "rating": 4.6,
+                            "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762787990/deep-fried-spring-rolls_xupiv5.jpg",
+                            "availability": true,
+                            "category": "North Indian"
                         }
                     ]
                 }
